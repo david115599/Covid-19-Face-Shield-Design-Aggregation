@@ -27,4 +27,4 @@ DtM-v3.0 Face Shield PPE, 3D printable headband (Similar to RC3)
 
   *Pros: Same as RC3 + NIH Certified, Covered Top, Standard Hole Spacing 
   
-  *Cons: Same as RC3 + Cannot be stacked for faster printing,
+  *Cons: Same as RC3 + Cannot be stacked for faster printing, Even Slower/unit print time ~2h 40min/unit
