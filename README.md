@@ -1,4 +1,6 @@
 # Covid-19-Face-Shield-Design-Aggregation
+All print time estimates are at using .3 layer height and 10% infil
+
 Prusa Reasearch RC3
 * https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2
 
