@@ -21,3 +21,10 @@ David115599 model(Hybrid between RC3 and 3D Verkstan) Prototype(still subject to
   *Pros: Fairly fast to print ~1h 10min/unit, Small Bom (no straps needed), Stackable for printing, Closed top Section, Large Spacing for glasses 
   
   *Cons: Can be a little tight on head if printed in PLA 
+  
+DtM-v3.0 Face Shield PPE, 3D printable headband (Similar to RC3)
+* https://3dprint.nih.gov/discover/3dpx-013238
+
+  *Pros: Same as RC3 + NIH Certified, Covered Top, Standard Hole Spacing 
+  
+  *Cons: Same as RC3 + Cannot be stacked for faster printing,
