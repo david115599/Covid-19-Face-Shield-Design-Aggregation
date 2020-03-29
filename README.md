@@ -32,6 +32,6 @@ DtM-v3.0 Face Shield PPE, 3D printable headband (Similar to RC3)
  Budmen Shield
   * https://budmen.com/
 
-  *Pros: Closed Top
+    *Pros: Closed Top
   
-  *Cons: Slow print ~1h 40min, Bulky, Large BOM, Non standard hole spacing
+    *Cons: Slow print ~1h 40min, Bulky, Large BOM, Non standard hole spacing
