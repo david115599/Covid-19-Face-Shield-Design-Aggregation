@@ -15,7 +15,7 @@ Prusa Reasearch RC3
   
   *Cons: Small Spacing for Glasses, somewhat flimsy, Slide around on head someitmes but can be resolved with a rubber band 
 
-David115599 model(Hybrid between RC3 and 3D Verkstan) Prototype(still subject to changes)
+David115599 Hybrid V2 Shield (Hybrid between RC3 and 3D Verkstan) Prototype(still subject to changes)
 * https://3dprint.nih.gov/discover/3dpx-013300
 
   *Pros: Fairly fast to print ~1h 10min/unit, Small Bom (no straps needed), Stackable for printing, Closed top Section, Large Spacing for glasses 
