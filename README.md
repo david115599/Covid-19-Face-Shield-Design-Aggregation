@@ -23,11 +23,11 @@ Inspired by HanochH design
   
   * Cons: Small Spacing for Glasses, somewhat flimsy, Slide around on head someitmes but can be resolved with a rubber band 
 
-### [David115599 Hybrid V2 Shield](https://3dprint.nih.gov/discover/3dpx-013300) 
+### [David115599 Hybrid V2 Shield](https://www.thingiverse.com/thing:4253791) Also [avalable from the NIH Site](https://3dprint.nih.gov/discover/3dpx-013300)
 
 (Hybrid between RC3 and 3D Verkstan) Prototype (still subject to changes)
 
-  * Pros: Fairly fast to print ~1h 10min/unit, Small Bom (no straps needed), Stackable for printing, Closed top Section, Large Spacing for glasses 
+  * Pros: Fairly fast to print ~1h 10min/unit, Small Bom (no straps needed), Stackable for printing, Closed top Section, Large Spacing for glasses, Awaiting NIH Certification 
   
   * Cons: Can be a little tight on head if printed in PLA 
   
